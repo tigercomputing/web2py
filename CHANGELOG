@@ -1,3 +1,6 @@
+## 2.18.5-2.18.5.tcl.1
+- Only return get_vars after a failing login
+
 ## 2.18.1-2.18.5
 - pydal 19.02
 - made template its own module (Yet Another Template Language)
